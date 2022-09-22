@@ -1,0 +1,27 @@
+body{
+   font-family:'Georgia';  
+   font-size: 18px;  
+   background-color: rgb(242, 242, 242);
+   color: rgb(14, 14, 14);
+}
+h1{
+   font-family: 'Georgia';
+}
+
+h3{
+   font-family: 'Georgia';
+   font-size: 20px;
+}
+
+p{
+   font-family:'Georgia';  
+   font-size: 18px;
+}
+
+*{
+   margin:0;
+   padding:0;
+   box-sizing: border-box;
+}
+
+.center
